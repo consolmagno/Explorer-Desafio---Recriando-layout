@@ -51,6 +51,10 @@ nav ul li a, footer p, footer a{
   line-height: 28px;
 }
 
+nav ul li a:hover, footer a:hover{
+  color: var(--span-color);
+}
+
 /* Main */
 .title{
   font: 700 var(--title-font-size) var(--title-font-family);
